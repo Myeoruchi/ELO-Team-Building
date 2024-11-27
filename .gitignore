@@ -1,0 +1,6 @@
+source/google_key.json
+source/sheet.json
+source/*.spec
+source/build
+source/dist
+source/__pycache__

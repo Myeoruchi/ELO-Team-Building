@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Jo Ju Eun\Documents\GitHub\ELO-Team-Building\Source"
+VIRTUAL_ENV="C:\Users\yyi07\OneDrive\문서\git\ELO-Team-Building\Source"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

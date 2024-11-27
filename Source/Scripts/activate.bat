@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Jo Ju Eun\Documents\GitHub\ELO-Team-Building\Source
+set VIRTUAL_ENV=C:\Users\yyi07\OneDrive\문서\git\ELO-Team-Building\Source
 
 if not defined PROMPT set PROMPT=$P$G
 
